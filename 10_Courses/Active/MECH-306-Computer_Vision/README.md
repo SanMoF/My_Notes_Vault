@@ -1,7 +1,7 @@
 ---
-course: "Computer Vision"
-code: "MECH-306"
-semester: "Current"
+course: Computer Vision
+code: MR
+semester: "6"
 professor: ""
 date_created: 2026-03-22
 ---
@@ -32,12 +32,7 @@ date_created: 2026-03-22
 | Object detection project | | [ ] |
 
 ## Notes
-- [[Image Filtering]]
-- [[Edge Detection]]
-- [[Feature Detection]]
-- [[Camera Calibration]]
-- [[OpenCV Functions]]
-- [[Stereo Vision]]
+- 
 
 ## Resources
 - OpenCV documentation
