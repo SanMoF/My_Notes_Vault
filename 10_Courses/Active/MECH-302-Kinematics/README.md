@@ -32,6 +32,7 @@ date_created: 2026-03-22
 | Trajectory planning | | [ ] |
 
 ## Notes
+* [[Rigid Body Orientation]]
 - [[DH Parameters]]
 - [[Forward Kinematics]]
 - [[Inverse Kinematics]]

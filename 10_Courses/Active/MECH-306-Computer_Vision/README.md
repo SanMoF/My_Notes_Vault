@@ -6,7 +6,7 @@ professor: ""
 date_created: 2026-03-22
 ---
 
-# MECH-306 - Computer Vision
+#  Computer Vision
 
 ## Info
 - **Code:** MECH-306

@@ -24,14 +24,11 @@ date_created: 2026-03-22
 
 
 ## Notes
-- [[Transfer Functions]]
-- [[PID Tuning Methods]]
-- [[Stability Criteria]]
-- [[State Space Representation]]
+- [[ELE Equations]]
 
 ## Resources
 - Textbook: 
 
 
 ## Related Projects
-- [[Project - Temperature Control]]
+- [[Project - Scara Robot]]
