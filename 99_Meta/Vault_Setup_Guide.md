@@ -22,6 +22,8 @@ To use a template:
 4. Select the appropriate template
 
 **Available Templates:**
+
+*Academic & Project Templates:*
 - [[Course_Note]] - For class content
 - [[Project]] - For hands-on projects
 - [[Component]] - For cataloging parts
@@ -29,6 +31,15 @@ To use a template:
 - [[Formula_Sheet]] - Quick reference sheets
 - [[Meeting_Note]] - Meeting notes
 - [[Daily_Note]] - Daily journal
+
+*Zettelkasten Templates:*
+- [[Fleeting_Note]] - Quick capture (process quickly)
+- [[Literature_Note]] - Summarize sources
+- [[Permanent_Note]] - Your own ideas (use UID)
+- [[Source_Reference]] - Bibliography tracking
+- [[Index_Note]] - Topic indexes/MOCs
+
+See [[Zettelkasten_Guide]] for the Zettelkasten workflow.
 
 ### 3. Folder Structure
 
