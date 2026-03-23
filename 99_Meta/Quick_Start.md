@@ -1,23 +1,21 @@
----
-tags: [meta, guide]
----
+# Quick Start
 
-# Vault Setup Guide
-
-## Simple Workflow
+## Simple Daily Workflow
 
 1. **Take notes in class** → Save to `10_Courses/Active/[Course Name]/`
 2. **Have an idea** → Drop it in [[00_Inbox]]
 3. **Start a build** → Use [[Project]] template in `20_Projects/Active/`
 4. **Once a week** → Clean up Inbox, move finished stuff
 
-## Templates
+That's it.
 
-| Template | Use For |
-|----------|---------|
-| [[Course_Note]] | New class |
-| [[Project]] | Building something |
-| [[Formula_Sheet]] | Quick reference for exams |
+## When to Use Each Template
+
+| Template | Use When | Example |
+|----------|----------|---------|
+| **Course_Note** | Starting a new class | MECH 301 - Control Systems |
+| **Project** | Building something | Line Follower Robot |
+| **Formula_Sheet** | Making a cheat sheet | PID formulas for exam |
 
 ## Folder Structure
 
@@ -55,5 +53,4 @@ My_Vault/
 - **Notes:** Just describe what it is
 
 ---
-
-*See [[Quick_Start]] for the full simple guide.*
+Don't overthink it. Just start taking notes.

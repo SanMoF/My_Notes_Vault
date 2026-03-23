@@ -2,56 +2,40 @@
 tags: [MOC, mechatronics]
 ---
 
-# Mechatronics MOC
+# Mechatronics Topics
 
-A Map of Content for mechatronics engineering knowledge.
+Quick links to your knowledge areas.
 
-## Core Disciplines
-
-### Mechanical Systems
-- [[Mechanical Design]]
-- [[CAD/CAM]]
-- [[Materials Science]]
-- [[Manufacturing Processes]]
-- [[Thermodynamics]]
-- [[Fluid Mechanics]]
-
-### Electrical Systems
-- [[Circuit Analysis]]
-- [[Electronics]]
-- [[Power Systems]]
-- [[Signal Processing]]
-- [[Embedded Systems]]
+## By Subject
 
 ### Control Systems
 - [[Classical Control]]
-- [[Modern Control]]
 - [[PID Tuning]]
-- [[State Space Analysis]]
-- [[System Identification]]
+- [[State Space]]
 
-### Programming & Software
-- [[C/C++]]
+### Programming
+- [[C++]]
 - [[Python]]
 - [[MATLAB]]
 - [[ROS]]
-- [[PLC Programming]]
-- [[Real-time Systems]]
 
-### Integration
-- [[System Modeling]]
-- [[Actuators & Sensors]]
-- [[IoT Systems]]
-- [[Machine Vision]]
-- [[Robotics]]
+### Mechanical
+- [[CAD]]
+- [[Manufacturing]]
+- [[Mechanics]]
 
-## Formula Collections
+### Electrical
+- [[Circuits]]
+- [[Electronics]]
+- [[Signal Processing]]
+
+## Formula Sheets
 - [[Control Systems Formulas]]
 - [[Mechanical Formulas]]
 - [[Electrical Formulas]]
 
-## Project Types
-- [[Robot Projects]]
-- [[Automation Projects]]
-- [[Drone/UAV Projects]]
-- [[IoT Projects]]
+## Current Courses
+- [[10_Courses/Active]]
+
+## Active Projects
+- [[20_Projects/Active]]

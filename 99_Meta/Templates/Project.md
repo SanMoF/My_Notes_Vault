@@ -1,57 +1,45 @@
 ---
 project: "{{title}}"
 status: "Active"
-tags: [project, mechatronics]
 date_started: {{date:YYYY-MM-DD}}
-date_completed:
 ---
 
 # {{title}}
 
-## Overview
-**Goal:**
-**Scope:**
-**Deadline:**
+## Goal
+What are you building?
 
 ## Status
-`Active` / `On Hold` / `Completed`
+Active / On Hold / Completed
 
-## Components Used
-| Component | Model | Quantity | Notes |
-|-----------|-------|----------|-------|
-|           |       |          |       |
+## Parts Needed
+| Component | Notes |
+|-----------|-------|
+|           |       |
 
-## Technical Details
+## Design
 
 ### Mechanical
-- CAD Files: [ ]
-- Materials: [ ]
-- Assembly steps: [ ]
+- CAD files:
+- Materials:
 
 ### Electrical
-- Circuit diagram: [ ]
-- Pin assignments: [ ]
-- Power requirements: [ ]
+- Circuit:
+- Pin assignments:
 
-### Software
-- Language/Framework:
+### Code
 - Repository:
-- Key algorithms:
+- Key functions:
 
-## Progress Log
-| Date | Progress | Notes |
-|------|----------|-------|
-| {{date:YYYY-MM-DD}} | Started project | |
+## Progress
+- {{date:YYYY-MM-DD}}: Started
 
-## Issues & Solutions
-- **Issue:**
-  - **Solution:**
+## Issues & Fixes
+- Problem:
+- Solution:
 
-## Results
-- Photos/Videos: [ ]
-- Performance metrics:
-- Lessons learned:
+## Photos/Results
 
-## Related
-- Courses: [[ ]]
-- Knowledge: [[ ]]
+## Links
+- Related course: [[ ]]
+- Related notes: [[ ]]

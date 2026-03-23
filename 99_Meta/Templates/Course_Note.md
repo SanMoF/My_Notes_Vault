@@ -3,40 +3,29 @@ course: "{{title}}"
 code: ""
 semester: ""
 professor: ""
-tags: [course, mechatronics]
 date_created: {{date:YYYY-MM-DD}}
 ---
 
 # {{title}}
 
-## Course Info
-- **Course Code:**
+## Info
+- **Code:**
 - **Professor:**
 - **Semester:**
-- **Credits:**
-- **Prerequisites:**
 
-## Learning Objectives
-- [ ]
-
-## Key Topics
+## Topics
 1.
+
+## Assignments
+| Assignment | Due | Done |
+|------------|-----|------|
+|            |     | [ ]  |
+
+## Notes
 
 ## Resources
 - Textbook:
-- Lecture notes:
-- Online resources:
+- Lectures:
 
-## Assignments
-| Assignment | Due Date | Status | Grade |
-|------------|----------|--------|-------|
-|            |          |        |       |
-
-## Projects
+## Related Projects
 - [[ ]]
-
-## Related Notes
-- [[ ]]
-
-## Questions/Unclear
-- [ ]

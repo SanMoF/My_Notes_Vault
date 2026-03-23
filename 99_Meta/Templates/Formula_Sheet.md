@@ -1,30 +1,29 @@
 ---
 subject: "{{title}}"
-tags: [formula, reference]
 date_created: {{date:YYYY-MM-DD}}
 ---
 
-# {{title}} - Formula Sheet
+# {{title}} - Formulas
 
 ## Constants
-| Symbol | Value | Description |
-|--------|-------|-------------|
-|        |       |             |
+| Symbol | Value |
+|--------|-------|
+|        |       |
 
 ## Formulas
 
 ### Topic 1
-| Formula | Variables | Units |
-|---------|-----------|-------|
-|         |           |       |
+| Formula | When to Use |
+|---------|-------------|
+|         |             |
 
 ### Topic 2
-| Formula | Variables | Units |
-|---------|-----------|-------|
-|         |           |       |
+| Formula | When to Use |
+|---------|-------------|
+|         |             |
 
-## Quick Reference
+## Units to Remember
 - [ ]
 
-## Related Courses
-- [[ ]]
+## Related
+- Course: [[ ]]
