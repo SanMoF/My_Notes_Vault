@@ -22,12 +22,6 @@ date_created: 2026-03-22
 6. PID controller design
 7. State-space representation
 
-## Assignments
-| Assignment | Due | Done |
-|------------|-----|------|
-| Lab 1: System identification | | [ ] |
-| Homework 1 | | [ ] |
-| Project: Controller design | | [ ] |
 
 ## Notes
 - [[Transfer Functions]]
@@ -36,8 +30,8 @@ date_created: 2026-03-22
 - [[State Space Representation]]
 
 ## Resources
-- Textbook:
-- Lectures:
+- Textbook: 
+
 
 ## Related Projects
 - [[Project - Temperature Control]]
