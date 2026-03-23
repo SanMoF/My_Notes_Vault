@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b5bd1c87c9ad2af4",
+        "id": "812c87d5c12b926b",
         "type": "tabs",
         "children": [
           {
-            "id": "99c5521d9d424098",
+            "id": "760a7839150c3258",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/Active/MECH-303-Process_Simulate/README.md",
+                "file": "20_Projects/Active/Project - Scara Robot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "8fcd20f2714ca2ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Courses/Active/MECH-302-Kinematics/Inverse Kinematics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inverse Kinematics"
+              "title": "Project - Scara Robot"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,18 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fcd20f2714ca2ec",
+  "active": "760a7839150c3258",
   "lastOpenFiles": [
     "99_Meta/Templates/Course_Note.md",
-    "10_Courses/Active/MECH-302-Kinematics/Jacobian Matrix.md",
+    "99_Meta/Templates/Lecture Notes.md",
     "99_Meta/Templates/Project.md",
     "99_Meta/Templates/Formula_Sheet.md",
+    "99_Meta/Quick_Start.md",
+    "10_Courses/Active/MECH-303-Process_Simulate/README.md",
+    "2026-03-22.md",
+    "Untitled.canvas",
     "10_Courses/Active/MECH-302-Kinematics/Inverse Kinematics.md",
+    "10_Courses/Active/MECH-302-Kinematics/Jacobian Matrix.md",
     "10_Courses/Active/MECH-306-Computer_Vision/README.md",
     "10_Courses/Active/MECH-305-CNC/README.md",
     "10_Courses/Active/MECH-304-Industrial_Networks/README.md",
     "20_Projects/Active/Project - Digital Twin.md",
-    "10_Courses/Active/MECH-303-Process_Simulate/README.md",
     "20_Projects/Active/Project - Scara Robot.md",
     "10_Courses/Active/MECH-301-Control/README.md",
     "10_Courses/Active/MECH-302-Kinematics/README.md",
@@ -244,9 +232,6 @@
     "10_Courses/Active/MECH-305-CNC",
     "10_Courses/Active/MECH-304-Industrial_Networks",
     "00_Inbox/New_Thing.md",
-    "00_Inbox/Other.md",
-    "30_Knowledge/Mechatronics MOC.md",
-    "10_Courses/Active.md",
-    "99_Meta/Templates/Component.md"
+    "00_Inbox/Other.md"
   ]
 }
