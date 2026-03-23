@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Meta/Templates/Project.md",
+                "file": "10_Courses/Active/MECH-302-Kinematics/Inverse Kinematics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project"
+              "title": "Inverse Kinematics"
             }
           }
         ],
@@ -212,8 +212,11 @@
   },
   "active": "8fcd20f2714ca2ec",
   "lastOpenFiles": [
-    "99_Meta/Templates/Formula_Sheet.md",
     "99_Meta/Templates/Course_Note.md",
+    "10_Courses/Active/MECH-302-Kinematics/Jacobian Matrix.md",
+    "99_Meta/Templates/Project.md",
+    "99_Meta/Templates/Formula_Sheet.md",
+    "10_Courses/Active/MECH-302-Kinematics/Inverse Kinematics.md",
     "10_Courses/Active/MECH-306-Computer_Vision/README.md",
     "10_Courses/Active/MECH-305-CNC/README.md",
     "10_Courses/Active/MECH-304-Industrial_Networks/README.md",
@@ -221,9 +224,7 @@
     "10_Courses/Active/MECH-303-Process_Simulate/README.md",
     "20_Projects/Active/Project - Scara Robot.md",
     "10_Courses/Active/MECH-301-Control/README.md",
-    "10_Courses/Active/MECH-302-Kinematics/Jacobian Matrix.md",
     "10_Courses/Active/MECH-302-Kinematics/README.md",
-    "10_Courses/Active/MECH-302-Kinematics/Inverse Kinematics.md",
     "00_Inbox/ESP32.md",
     "00_Inbox/Mechanical Design.md",
     "00_Inbox/Inbox.md",
@@ -246,7 +247,6 @@
     "00_Inbox/Other.md",
     "30_Knowledge/Mechatronics MOC.md",
     "10_Courses/Active.md",
-    "99_Meta/Templates/Project.md",
     "99_Meta/Templates/Component.md"
   ]
 }
