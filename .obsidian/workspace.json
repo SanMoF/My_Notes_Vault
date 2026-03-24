@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Projects/Active/Project - Scara Robot.md",
+                "file": "10_Courses/Active/MECH-301-Control/ELE Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project - Scara Robot"
+              "title": "ELE Equations"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "760a7839150c3258",
   "lastOpenFiles": [
+    "20_Projects/Active/Project - Scara Robot.md",
     "README.md",
     "Untitled.canvas",
-    "20_Projects/Active/Project - Scara Robot.md",
     "99_Meta/Templates/Course_Note.md",
     "99_Meta/Templates/Lecture Notes.md",
     "99_Meta/Templates/Project.md",
