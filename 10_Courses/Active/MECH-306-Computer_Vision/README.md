@@ -32,7 +32,7 @@ date_created: 2026-03-22
 | Object detection project | | [ ] |
 
 ## Notes
-- 
+- [[Introduction to CV]]
 
 ## Resources
 - OpenCV documentation
