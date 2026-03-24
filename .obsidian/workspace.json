@@ -196,6 +196,8 @@
   },
   "active": "760a7839150c3258",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "20_Projects/Active/Project - Scara Robot.md",
     "99_Meta/Templates/Course_Note.md",
     "99_Meta/Templates/Lecture Notes.md",
     "99_Meta/Templates/Project.md",
@@ -203,14 +205,12 @@
     "99_Meta/Quick_Start.md",
     "10_Courses/Active/MECH-303-Process_Simulate/README.md",
     "2026-03-22.md",
-    "Untitled.canvas",
     "10_Courses/Active/MECH-302-Kinematics/Inverse Kinematics.md",
     "10_Courses/Active/MECH-302-Kinematics/Jacobian Matrix.md",
     "10_Courses/Active/MECH-306-Computer_Vision/README.md",
     "10_Courses/Active/MECH-305-CNC/README.md",
     "10_Courses/Active/MECH-304-Industrial_Networks/README.md",
     "20_Projects/Active/Project - Digital Twin.md",
-    "20_Projects/Active/Project - Scara Robot.md",
     "10_Courses/Active/MECH-301-Control/README.md",
     "10_Courses/Active/MECH-302-Kinematics/README.md",
     "00_Inbox/ESP32.md",
@@ -231,7 +231,6 @@
     "10_Courses/Active/MECH-306-Computer_Vision",
     "10_Courses/Active/MECH-305-CNC",
     "10_Courses/Active/MECH-304-Industrial_Networks",
-    "00_Inbox/New_Thing.md",
-    "00_Inbox/Other.md"
+    "00_Inbox/New_Thing.md"
   ]
 }
