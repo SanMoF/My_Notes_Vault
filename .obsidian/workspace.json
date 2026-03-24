@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/Active/MECH-301-Control/ELE Equations.md",
+                "file": "10_Courses/Active/MECH-302-Kinematics/Rigid Body Orientation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ELE Equations"
+              "title": "Rigid Body Orientation"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "760a7839150c3258",
   "lastOpenFiles": [
+    "10_Courses/Active/MECH-302-Kinematics/Forward Kinematics.md",
+    "10_Courses/Active/MECH-302-Kinematics/DH Parameters.md",
+    "10_Courses/Active/MECH-301-Control/ELE Equations.md",
     "20_Projects/Active/Project - Scara Robot.md",
     "README.md",
     "Untitled.canvas",
@@ -217,10 +220,7 @@
     "00_Inbox/ESP32.md",
     "00_Inbox/Mechanical Design.md",
     "00_Inbox/Inbox.md",
-    "10_Courses/Active/MECH-302-Kinematics/Forward Kinematics.md",
-    "10_Courses/Active/MECH-302-Kinematics/DH Parameters.md",
     "10_Courses/Active/MECH-302-Kinematics/Rigid Body Orientation.md",
-    "10_Courses/Active/MECH-301-Control/ELE Equations.md",
     "00_Inbox/Transfer Functions.md",
     "Dashboard.md.tmp.241959.1774236693488",
     "10_Courses/Active/MECH-306-Computer_Vision/README.md.tmp.241959.1774236687875",
