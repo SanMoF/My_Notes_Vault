@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/Active/MECH-306-Computer_Vision/README.md",
+                "file": "10_Courses/Active/Computer_Vision/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/Active/MECH-306-Computer_Vision/Introduction to CV.md",
+                "file": "10_Courses/Active/Computer_Vision/Introduction to CV.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,14 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "206848d622a2d885",
+  "active": "c414717a27ed46a8",
   "lastOpenFiles": [
-    "10_Courses/Active/MECH-306-Computer_Vision/Introduction to CV.md",
-    "10_Courses/Active/MECH-306-Computer_Vision/README.md",
-    "10_Courses/Active/MECH-302-Kinematics/Rigid Body Orientation.md",
-    "10_Courses/Active/MECH-302-Kinematics/Forward Kinematics.md",
-    "10_Courses/Active/MECH-302-Kinematics/DH Parameters.md",
-    "10_Courses/Active/MECH-301-Control/ELE Equations.md",
+    "10_Courses/Active/Computer_Vision/README.md",
+    "10_Courses/Active/Computer_Vision/Introduction to CV.md",
+    "10_Courses/Active/Kinematics/Rigid Body Orientation.md",
+    "10_Courses/Active/Kinematics/Forward Kinematics.md",
+    "10_Courses/Active/Kinematics/DH Parameters.md",
+    "10_Courses/Active/Control/ELE Equations.md",
     "20_Projects/Active/Project - Scara Robot.md",
     "README.md",
     "Untitled.canvas",
@@ -225,15 +225,15 @@
     "99_Meta/Templates/Project.md",
     "99_Meta/Templates/Formula_Sheet.md",
     "99_Meta/Quick_Start.md",
-    "10_Courses/Active/MECH-303-Process_Simulate/README.md",
+    "10_Courses/Active/Process_Simulate/README.md",
     "2026-03-22.md",
-    "10_Courses/Active/MECH-302-Kinematics/Inverse Kinematics.md",
+    "10_Courses/Active/Kinematics/Inverse Kinematics.md",
     "10_Courses/Active/MECH-302-Kinematics/Jacobian Matrix.md",
-    "10_Courses/Active/MECH-305-CNC/README.md",
-    "10_Courses/Active/MECH-304-Industrial_Networks/README.md",
+    "10_Courses/Active/CNC/README.md",
+    "10_Courses/Active/Industrial_Networks/README.md",
     "20_Projects/Active/Project - Digital Twin.md",
-    "10_Courses/Active/MECH-301-Control/README.md",
-    "10_Courses/Active/MECH-302-Kinematics/README.md",
+    "10_Courses/Active/Control/README.md",
+    "10_Courses/Active/Kinematics/README.md",
     "00_Inbox/ESP32.md",
     "00_Inbox/Mechanical Design.md",
     "00_Inbox/Inbox.md",
@@ -245,8 +245,8 @@
     "10_Courses/Active/MECH-303-Process_Simulate/README.md.tmp.241959.1774236687781",
     "10_Courses/Active/MECH-302-Kinematics/README.md.tmp.241959.1774236687750",
     "10_Courses/Active/MECH-301-Control/README.md.tmp.241959.1774236687716",
-    "10_Courses/Active/MECH-306-Computer_Vision",
-    "10_Courses/Active/MECH-305-CNC",
-    "10_Courses/Active/MECH-304-Industrial_Networks"
+    "10_Courses/Active/Computer_Vision",
+    "10_Courses/Active/CNC",
+    "10_Courses/Active/Industrial_Networks"
   ]
 }

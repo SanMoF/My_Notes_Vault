@@ -10,12 +10,12 @@ Your notes for courses and projects.
 
 | Course | Code | Status |
 |--------|------|--------|
-| [[MECH-301-Control/README\|Control Systems]] | MECH-301 | Active |
-| [[MECH-302-Kinematics/README\|Kinematics and Dynamics]] | MECH-302 | Active |
-| [[MECH-303-Process_Simulate/README\|Process Simulate]] | MECH-303 | Active |
-| [[MECH-304-Industrial_Networks/README\|Industrial Networks]] | MECH-304 | Active |
-| [[MECH-305-CNC/README\|CNC Programming]] | MECH-305 | Active |
-| [[MECH-306-Computer_Vision/README\|Computer Vision]] | MECH-306 | Active |
+| [[10_Courses/Active/Control/README\|Control Systems]] | MECH-301 | Active |
+| [[10_Courses/Active/Kinematics/README\|Kinematics and Dynamics]] | MECH-302 | Active |
+| [[10_Courses/Active/Process_Simulate/README\|Process Simulate]] | MECH-303 | Active |
+| [[10_Courses/Active/Industrial_Networks/README\|Industrial Networks]] | MECH-304 | Active |
+| [[10_Courses/Active/CNC/README\|CNC Programming]] | MECH-305 | Active |
+| [[10_Courses/Active/Computer_Vision/README\|Computer Vision]] | MECH-306 | Active |
 
 ## Quick Links
 - [[00_Inbox]] - Quick notes to organize later
