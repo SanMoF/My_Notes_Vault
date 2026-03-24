@@ -21,7 +21,9 @@
 
 -  CV is the branch of AI 
 - IT needs to deal with noise
--  Vision allows robots to Recognize lig
+-  Vision allows robots to Recognize lights and signs
+	- Detect People
+	- 
 
 ### Definitions
 
