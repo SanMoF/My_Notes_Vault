@@ -26,6 +26,7 @@
 	- Inspect Products and Identify objects for manipulation
 - Computer vision helps a roobtdetect objects to intercat with 
 - KInect was revoutionary for its habilidty for detect depth
+- 
 
 ### Definitions
 
