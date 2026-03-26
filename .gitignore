@@ -1,0 +1,16 @@
+# Books and large files
+*.pdf
+*.epub
+*.mobi
+
+# Obsidian cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# If you have a Books/Resources folder inside 40_Resources
+40_Resources/Books/
