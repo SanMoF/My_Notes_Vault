@@ -36,7 +36,7 @@ date_created: 2026-03-22
 
 ## Resources
 - OpenCV documentation
-- Python/NumPy tutorials
+- 
 
 ## Related Projects
-- [[Project - Vision Guided Robot]]
+- [[Project - Scara Robot]]

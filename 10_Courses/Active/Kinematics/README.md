@@ -36,10 +36,9 @@ date_created: 2026-03-22
 - [[DH Parameters]]
 - [[Forward Kinematics]]
 - [[Inverse Kinematics]]
-- [[Jacobian Matrix]]
 
 ## Resources
-- Textbook:
+- Textbook: ![[2016_SpringerHandbookOfRobotics.pdf]]
 - Lectures:
 
 ## Related Projects
