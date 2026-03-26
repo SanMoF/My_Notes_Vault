@@ -6,7 +6,7 @@ professor: ""
 date_created: 2026-03-22
 ---
 
-# MECH-303 - Process Simulate
+# Process Simulate
 
 ## Info
 - **Code:** MECH-303
@@ -16,11 +16,11 @@ date_created: 2026-03-22
 ## Topics
 * 
 ## Assignments
-| Assignment | Due | Done |
-|------------|-----|------|
-| Basic cell setup | | [ ] |
-| Robot programming | | [ ] |
-| Virtual commissioning project | | [ ] |
+| Assignment                    | Due | Done |
+| ----------------------------- | --- | ---- |
+| Basic cell setup              |     | [ ]  |
+| Robot programming             |     | [ ]  |
+| Virtual commissioning project |     | [ ]  |
 
 ## Notes
 

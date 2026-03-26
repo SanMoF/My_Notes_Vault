@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/Active/Process_Simulate/README.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "98af37d38a79ea0e",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "10_Courses/Active/Process_Simulate/README.md",
     "10_Courses/Active/Kinematics/README.md",
     "Images/2016_SpringerHandbookOfRobotics.pdf",
     "10_Courses/Active/Control/README.md",
@@ -214,7 +216,6 @@
     "99_Meta/Templates/Project.md",
     "99_Meta/Templates/Formula_Sheet.md",
     "99_Meta/Quick_Start.md",
-    "10_Courses/Active/Process_Simulate/README.md",
     "2026-03-22.md",
     "10_Courses/Active/Kinematics/Inverse Kinematics.md",
     "10_Courses/Active/MECH-302-Kinematics/Jacobian Matrix.md",
