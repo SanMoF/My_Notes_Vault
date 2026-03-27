@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b6ec03445fb444a",
+        "id": "d7323ff8b27a0639",
         "type": "tabs",
         "children": [
           {
-            "id": "eb5bca74b62f7a48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Courses/Active/CNC/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "996aa9c53a2a7e41",
+            "id": "c73e0a9c9a860f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Lecture Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "996aa9c53a2a7e41",
+  "active": "c73e0a9c9a860f88",
   "lastOpenFiles": [
-    "99_Meta/Templates/Untitled.md",
-    "99_Meta/Templates/Lecture Notes.md",
-    "10_Courses/Active/CNC/Lecture G Code Milling.md",
     "10_Courses/Active/CNC/README.md",
+    "99_Meta/Templates/Lecture Notes.md",
+    "99_Meta/Templates/Untitled.md",
+    "10_Courses/Active/CNC/Lecture G Code Milling.md",
     "CLAUDE.md",
     "Dashboard.md",
     "10_Courses/Active/Process_Simulate/README.md",
