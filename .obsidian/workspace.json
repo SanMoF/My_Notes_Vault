@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/Active/CNC/Lecture G Code Milling.md",
+                "file": "99_Meta/Templates/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture G Code Milling"
+              "title": "Lecture Notes"
             }
           }
         ],
@@ -211,6 +211,8 @@
   },
   "active": "996aa9c53a2a7e41",
   "lastOpenFiles": [
+    "99_Meta/Templates/Untitled.md",
+    "99_Meta/Templates/Lecture Notes.md",
     "10_Courses/Active/CNC/Lecture G Code Milling.md",
     "10_Courses/Active/CNC/README.md",
     "CLAUDE.md",
@@ -230,7 +232,6 @@
     "README.md",
     "Untitled.canvas",
     "99_Meta/Templates/Course_Note.md",
-    "99_Meta/Templates/Lecture Notes.md",
     "99_Meta/Templates/Project.md",
     "99_Meta/Templates/Formula_Sheet.md",
     "99_Meta/Quick_Start.md",
@@ -238,7 +239,6 @@
     "10_Courses/Active/Kinematics/Inverse Kinematics.md",
     "10_Courses/Active/MECH-302-Kinematics/Jacobian Matrix.md",
     "10_Courses/Active/Industrial_Networks/README.md",
-    "20_Projects/Active/Project - Digital Twin.md",
     "Dashboard.md.tmp.241959.1774236693488",
     "10_Courses/Active/MECH-306-Computer_Vision/README.md.tmp.241959.1774236687875",
     "10_Courses/Active/MECH-305-CNC/README.md.tmp.241959.1774236687838",
