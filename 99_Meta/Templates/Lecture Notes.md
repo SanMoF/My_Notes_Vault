@@ -1,7 +1,6 @@
 ---
 cssclass: cornell-note
 ---
-
 <div class="cues-header">Cues</div>
 
 # Notes
@@ -10,7 +9,7 @@ The Cornell Note-taking System is a popular and effective method for organizing 
 
 <aside>Note's Layout</aside>
 
-The Cornell method offers a specific layout for each page of notes. The note is devided into three sections: 
+The Cornell method offers a specific layout for each page of notes. The note is divided into three sections: 
 - **Cue/Question Column (Left)** — is used to write down questions, keywords, or cues related to the content you're recording in the main notes section.
 - **Note-taking Column (Right)** — here you write your main notes during the lecture or reading. This section should contain the most critical information, main ideas, supporting details, and explanations.
 - **Summary Section (Bottom)** — here you write a concise summary of the main points covered in your notes.

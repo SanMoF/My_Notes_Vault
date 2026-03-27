@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7323ff8b27a0639",
+        "id": "a22a8c1fff477861",
         "type": "tabs",
         "children": [
           {
-            "id": "c73e0a9c9a860f88",
+            "id": "163d5f4eb30d1987",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c73e0a9c9a860f88",
+  "active": "163d5f4eb30d1987",
   "lastOpenFiles": [
-    "10_Courses/Active/CNC/README.md",
     "99_Meta/Templates/Lecture Notes.md",
+    "10_Courses/Active/CNC/README.md",
     "99_Meta/Templates/Untitled.md",
     "10_Courses/Active/CNC/Lecture G Code Milling.md",
     "CLAUDE.md",

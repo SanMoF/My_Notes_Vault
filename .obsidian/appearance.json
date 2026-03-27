@@ -1,5 +1,8 @@
 {
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "accentColor": "#7158b6"
+  "accentColor": "#7158b6",
+  "enabledCssSnippets": [
+    "cornell-note"
+  ]
 }
