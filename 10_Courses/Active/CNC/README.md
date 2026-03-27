@@ -1,7 +1,7 @@
 ---
-course: "CNC Programming and Manufacturing"
-code: "MECH-305"
-semester: "Current"
+course: CNC Programming and Manufacturing
+code: MR2007B
+semester: Current
 professor: ""
 date_created: 2026-03-22
 ---
@@ -9,8 +9,8 @@ date_created: 2026-03-22
 # MECH-305 - CNC Programming and Manufacturing
 
 ## Info
-- **Code:** MECH-305
-- **Professor:**
+- **Code:** MR2007B
+- **Professor:** Iyari Nava
 - **Semester:** Current
 
 ## Topics
@@ -31,12 +31,7 @@ date_created: 2026-03-22
 | CAM project | | [ ] |
 
 ## Notes
-- [[G Code Reference]]
-- [[M Code Reference]]
-- [[Tool Offsets]]
-- [[Work Coordinates G54-G59]]
-- [[Canned Cycles]]
-
+- [[Lecture G Code Milling]]
 ## Resources
 - CAM Software:
 - Simulator:
