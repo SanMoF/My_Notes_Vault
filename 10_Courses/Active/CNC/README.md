@@ -32,6 +32,7 @@ date_created: 2026-03-22
 
 ## Notes
 - [[Lecture G Code Milling]]
+- 
 ## Resources
 - CAM Software:
 - Simulator:
